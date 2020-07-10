@@ -1,7 +1,7 @@
 # Meme Generator
 Meme Generator is the capstone project created on Scrimba to show the knowledge gained from learning the React framework. 
 
-## Getting Started (on Windows)
+### Getting Started (on Windows)
 
 If you're using npm, run npm start in the windows command prompt. Make sure that you are currently located inside the folder of the cloned repository you have locally in your PC. 
 
