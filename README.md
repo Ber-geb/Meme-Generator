@@ -32,6 +32,10 @@ This should open up a tab on your default browser that will show the react app r
 
 Please visit the following repo https://github.com/gitname/react-gh-pages where there is a very in-depth README section that will help you run the react app here. 
 
+### Netlify 
+
+Here is a link to the React app on this repo deployed in netlify: https://m3m3g3n3rator.netlify.app/
+
 ### Reference
 This project as mentioned earlier was given by the lovely people at Scrimba. Here is a direct link to the video they have providing the prompt and the code. 
 
